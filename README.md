@@ -1,4 +1,4 @@
-# opentelemetry
+# openTelemetry
 
 
 ![image](https://github.com/JessCordeiro/opentelemetry/assets/67651751/c8d25af4-12d6-497d-a561-b4f0f8237232)
